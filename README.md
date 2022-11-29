@@ -1,1 +1,2 @@
-# CommonPhrases-Proiect-Python
+# CommonPhrases-Proiect tip C-Python
+Ursache Olivia-Deborah
